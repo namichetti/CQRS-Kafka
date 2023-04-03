@@ -1,0 +1,20 @@
+
+Ÿ
+java:S4449L"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘
+Ÿ
+java:S4449_"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘
+Ÿ
+java:S44499"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘
+Ÿ
+java:S4449&"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘
+h	java:S116"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‹ãÜşÿÿÿÿ
+T
+java:S1155%">Use isEmpty() to check whether the collection is empty or not.(ìı±
+T
+java:S11558">Use isEmpty() to check whether the collection is empty or not.(ìı±
+T
+java:S1155K">Use isEmpty() to check whether the collection is empty or not.(ìı±
+T
+java:S1155^">Use isEmpty() to check whether the collection is empty or not.(ìı±
+Y
+java:S1128"7Remove this unused import 'org.apache.coyote.Response'.(˜ÊŠşÿÿÿÿ8˜ƒÂŒî0
